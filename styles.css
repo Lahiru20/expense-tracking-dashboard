@@ -1,4 +1,9 @@
 .chart-section{
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
+}
+
+body{
+    scroll-behavior: smooth;
 }
